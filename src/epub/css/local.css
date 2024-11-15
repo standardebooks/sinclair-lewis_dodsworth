@@ -78,7 +78,7 @@ p span.i1{
 
 /* Custom dedication */
 #dedication p{
-	text-transform: uppercase;
+	text-transform: small-caps;
 }
 /* End custom dedication */
 
