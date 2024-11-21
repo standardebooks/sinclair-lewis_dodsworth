@@ -83,7 +83,7 @@ p span.i1{
 /* End custom dedication */
 
 /* Begin custom styles */
-#chapter-5 blockquote:nth-of-type(2){
-	text-transform: uppercase;
+#chapter-5 blockquote:nth-of-type(2),
+#chapter-15 b{
+	font-variant: all-small-caps;
 }
-/* End custom styles */
