@@ -60,9 +60,9 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Sinclair_Lewis</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79023149</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">Oliver Dennett Grover</dc:contributor>
-		<meta property="file-as" refines="#artist">Grover, Oliver Dennett</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Oliver_Dennett_Grover</meta>
+		<dc:contributor id="artist">Jules Ernest Renoux</dc:contributor>
+		<meta property="file-as" refines="#artist">Renoux, Jules Ernest</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Jules_Ernest_Renoux</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Marcia Brooks</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Brooks, Marcia</meta>
