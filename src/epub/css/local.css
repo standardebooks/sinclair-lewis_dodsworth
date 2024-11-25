@@ -1,8 +1,16 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
+.telegram{
+	font-variant: all-small-caps;
+}
+
 q{
 	font-style: italic;
+}
+
+q.telegram{
+	font-style: normal;
 }
 
 /* Centered dedications */
@@ -85,9 +93,3 @@ p span.i1{
 	text-transform: small-caps;
 }
 /* End custom dedication */
-
-/* Begin custom styles */
-#chapter-5 blockquote:nth-of-type(2),
-#chapter-15 b{
-	font-variant: all-small-caps;
-}
