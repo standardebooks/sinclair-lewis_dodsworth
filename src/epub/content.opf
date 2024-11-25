@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/sinclair-lewis/dodsworth</dc:identifier>
-		<dc:date>1900⁠–⁠01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900⁠–⁠01-01T00:00:00Z</meta>
+		<dc:date>2025-01-01T09:01:00Z</dc:date>
+		<meta property="dcterms:modified">2025-01-01T09:01:00Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -42,16 +42,17 @@
 		<meta property="term" refines="#subject-4">sh2008114931</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Satire</meta>
-		<dc:description id="description">A newly retired businessman’s peaceful European trip falls apart as his wife chases high society and he finds a new path in life.</dc:description>
+		<dc:description id="description">A newly-retired businessman’s peaceful European trip falls apart as his wife chases high European society.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;In the booming American Midwest of the 1920s, an innovative auto manufacturer decides to retire early at fifty, having achieved the American Dream through hard work and ingenuity. With his younger, socially ambitious wife, he embarks on a long-dreamed-of European tour—a seemingly perfect capstone to a successful life. But what begins as a leisurely vacation opens up profound questions about identity, marriage, and the nature of fulfillment. Can a self-made American businessman find meaning beyond his career? What happens when one spouse grows while the other remains static? The novel explores the clash between American practicality and European sophistication, between duty and self-discovery, and between the comfortable familiar and the alluring unknown.&lt;/p&gt;
-			&lt;p&gt;Published in 1929, &lt;i&gt;Dodsworth&lt;/i&gt; emerged during a significant period in &lt;a href="https://standardebooks.org/ebooks/sinclair-lewis"&gt;Sinclair Lewis’s&lt;/a&gt; career, arriving four years after he won (and declined) the &lt;a href="https://standardebooks.org/collections/pulitzer-prize-for-fiction-winners"&gt;Pulitzer Prize&lt;/a&gt; for &lt;a href="https://standardebooks.org/ebooks/sinclair-lewis/arrowsmith"&gt;&lt;i&gt;Arrowsmith&lt;/i&gt;&lt;/a&gt; and just before he became the first American to receive the Nobel Prize for Literature in 1930. The novel’s resonance endured well beyond its publication, leading to successful adaptations in multiple media. Sidney Howard adapted it for the stage in 1934, and then wrote the screenplay for William Wyler’s acclaimed 1936 film adaptation. The film’s enduring significance was recognized in 1990 when it was selected for preservation in the National Film Registry by the Library of Congress.&lt;/p&gt;
+			&lt;p&gt;In the booming American Midwest of the 1920s, an innovative auto manufacturer decides to retire early at the age of fifty, having achieved the American Dream through his hard work and ingenuity. With his younger, socially ambitious wife, he embarks on a long-dreamed-of European tour—a seemingly perfect capstone to a successful life. But what begins as a leisurely vacation opens up profound questions about identity, marriage, and the nature of fulfillment. Can a self-made American businessman find meaning beyond his career? What happens when one spouse changes while the other remains static? The novel explores the clash between American practicality and European sophistication, between duty and self-discovery, and between the comfortable familiar and the alluring unknown.&lt;/p&gt;
+			&lt;p&gt;Published in 1929, &lt;i&gt;Dodsworth&lt;/i&gt; emerged during a significant period in &lt;a href="https://standardebooks.org/ebooks/sinclair-lewis"&gt;Sinclair Lewis’s&lt;/a&gt; career, arriving four years after he won (and declined) the &lt;a href="https://standardebooks.org/collections/pulitzer-prize-for-fiction-winners"&gt;Pulitzer Prize&lt;/a&gt; for &lt;a href="https://standardebooks.org/ebooks/sinclair-lewis/arrowsmith"&gt;&lt;i&gt;Arrowsmith&lt;/i&gt;&lt;/a&gt; and just before he became the first American to receive the Nobel Prize for Literature in 1930.&lt;/p&gt;
+			&lt;p&gt;The novel’s resonance endured well beyond its publication, leading to successful adaptations in multiple media. Sidney Howard adapted it for the stage in 1934, and then wrote the screenplay for William Wyler’s acclaimed 1936 film adaptation. The film’s enduring significance was recognized in 1990 when it was selected for preservation in the National Film Registry by the Library of Congress.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20161108</dc:source>
 		<dc:source>https://archive.org/details/dodsworth0000unse_o8l9</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">140479</meta>
+		<meta property="se:reading-ease.flesch">70.02</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Dodsworth_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/sinclair-lewis_dodsworth</meta>
 		<dc:creator id="author">Sinclair Lewis</dc:creator>
