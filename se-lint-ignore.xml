@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
+	<file path="chapter-31.xhtml">
+		<ignore>
+			<code>y-035</code>
+			<reason>Matched text is a proper name.</reason>
+		</ignore>
+	</file>
 	<file path="chapter-32.xhtml">
 		<ignore>
 			<code>y-026</code>
