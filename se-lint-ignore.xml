@@ -2,11 +2,13 @@
 <se-lint-ignore>
 	<file path="chapter-31.xhtml">
 		<ignore code="y-035">
+			<line>26</line>
 			<reason>Matched text is a proper name.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-32.xhtml">
 		<ignore code="y-026">
+			<line>29</line>
 			<reason>The word "Or" is not a conjunction in this paragraph. It's a part of the word "oriental."</reason>
 		</ignore>
 	</file>
