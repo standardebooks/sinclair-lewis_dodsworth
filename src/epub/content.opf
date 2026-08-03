@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/sinclair-lewis/dodsworth</dc:identifier>
 		<dc:date>2025-01-01T09:01:00Z</dc:date>
@@ -44,12 +44,12 @@
 		<meta property="term" refines="#subject-4">sh2008114931</meta>
 		<meta property="schema:genre">Fiction</meta>
 		<meta property="schema:genre">Satire</meta>
-		<dc:description id="description">A newly-retired businessman’s peaceful European trip falls apart as his wife chases high European society.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A newly-retired businessman’s peaceful European trip falls apart as his wife chases high European society.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;In the booming American Midwest of the 1920s, an innovative auto manufacturer decides to retire early at the age of fifty, having achieved the American Dream through his hard work and ingenuity. With his younger, socially ambitious wife, he embarks on a long-dreamed-of European tour—a seemingly perfect capstone to a successful life. But what begins as a leisurely vacation opens up profound questions about identity, marriage, and the nature of fulfillment. Can a self-made American businessman find meaning beyond his career? What happens when one spouse changes while the other remains static? The novel explores the clash between American practicality and European sophistication, between duty and self-discovery, and between the comfortable familiar and the alluring unknown.&lt;/p&gt;
 			&lt;p&gt;Published in 1929, &lt;i&gt;Dodsworth&lt;/i&gt; emerged during a significant period in &lt;a href="https://standardebooks.org/ebooks/sinclair-lewis"&gt;Sinclair Lewis’s&lt;/a&gt; career, arriving four years after he won (and declined) the &lt;a href="https://standardebooks.org/collections/pulitzer-prize-for-fiction-winners"&gt;Pulitzer Prize&lt;/a&gt; for &lt;a href="https://standardebooks.org/ebooks/sinclair-lewis/arrowsmith"&gt;&lt;i&gt;Arrowsmith&lt;/i&gt;&lt;/a&gt; and just before he became the first American to receive the Nobel Prize in Literature in 1930.&lt;/p&gt;
 			&lt;p&gt;The novel’s resonance endured well beyond its publication, leading to successful adaptations in multiple media. Sidney Howard adapted it for the stage in 1934, and then wrote the screenplay for William Wyler’s acclaimed 1936 film adaptation. The film’s enduring significance was recognized in 1990 when it was selected for preservation in the National Film Registry by the Library of Congress.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20161108</dc:source>
 		<dc:source>https://archive.org/details/dodsworth0000unse_o8l9</dc:source>
